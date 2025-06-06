@@ -1,0 +1,34 @@
+{
+  "@@locale": "es",
+  "appTitle": "Demostración de Inicio de Sesión en Flutter",
+  "loginPageTitle": "Ingrese su Número de Teléfono",
+  "themeSelectionPageTitle": "Seleccionar Tema",
+  "verifyPhoneNumber": "Verifique su número de teléfono",
+  "enterCountryCodeAndPhoneNumber": "Por favor, ingrese el código de su país y su número de teléfono para continuar.",
+  "countryCode": "Código de País",
+  "phoneNumber": "Número de Teléfono",
+  "phoneNumberHint": "ej. 1234567890",
+  "loginButton": "Iniciar Sesión",
+  "termsAndConditions": "Al continuar, acepta nuestros Términos de Servicio y Política de Privacidad.",
+  "search": "Buscar",
+  "startTypingToSearch": "Comience a escribir para buscar",
+  "pleaseEnterPhoneNumber": "Por favor ingrese su número de teléfono",
+  "enterValidPhoneNumber": "Ingrese un número de teléfono válido",
+  "loginAttemptWith": "Intento de inicio de sesión con {fullPhoneNumber}",
+  "@loginAttemptWith": {
+    "description": "Mensaje que se muestra después del intento de inicio de sesión",
+    "placeholders": {
+      "fullPhoneNumber": {
+        "type": "String",
+        "example": "+34123456789"
+      }
+    }
+  },
+  "pleaseCorrectErrors": "Por favor corrija los errores en el formulario.",
+  "chooseTheme": "Elige tu tema preferido:",
+  "lightMode": "Modo Claro",
+  "lightModeSubtitle": "Tema claro inspirado en WhatsApp",
+  "darkMode": "Modo Oscuro",
+  "darkModeSubtitle": "Tema oscuro estándar",
+  "changeThemeTooltip": "Cambiar Tema"
+}
